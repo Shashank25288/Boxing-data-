@@ -1,0 +1,11 @@
+match_id,date,boxer_a,boxer_b,winner,score_a,score_b,rounds
+M001,2026-01-12,Arjun,Dev,Arjun,78,71,3
+M002,2026-01-18,Dev,Kiran,Kiran,68,75,3
+M003,2026-01-24,Arjun,Kiran,Arjun,81,76,3
+M004,2026-02-02,Manoj,Dev,Dev,70,74,3
+M005,2026-02-09,Kiran,Manoj,Kiran,79,73,3
+M006,2026-02-15,Arjun,Manoj,Manoj,72,77,3
+M007,2026-02-22,Arjun,Dev,Arjun,80,74,3
+M008,2026-03-01,Kiran,Arjun,Arjun,76,82,3
+M009,2026-03-08,Dev,Manoj,Dev,78,73,3
+M010,2026-03-14,Manoj,Kiran,Manoj,79,69,3
